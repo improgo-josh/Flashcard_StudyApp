@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlashcardApp</string>
+    <string name="flashcard_answer">flashcard_answer</string>
+    <string name="flashcard_question">flashcard_question</string>
+</resources>
