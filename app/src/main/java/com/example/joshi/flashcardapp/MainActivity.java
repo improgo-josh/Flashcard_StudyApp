@@ -3,10 +3,11 @@ package com.example.joshi.flashcardapp;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.ImageView;
 
 public class MainActivity extends AppCompatActivity {
 
-    boolean isShowingAnswers;
+//    boolean isShowingAnswers;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -21,6 +22,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        findViewById(R.id.toggle_choices_visibility).setImageResource(R.drawable.show_icon);
+//        ImageView imageView = (ImageView) findViewById(R.id.toggle_choices_visibility).setImageResource(R.drawable.show_icon);
     }
 }
