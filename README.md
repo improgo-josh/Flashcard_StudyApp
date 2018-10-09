@@ -15,4 +15,4 @@
 - [x] Further customize and style the card
 - [x] Add a button that will toggle hiding and showing the answer choices
 
-</>  # FlashcardApp
+<img src="https://github.com/joshimprogo/Flashcard_StudyApp/blob/master/FlashcardStudyAppGIF.gif"/>  # FlashcardApp
