@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         final int red = getResources().getColor(R.color.pastel_red);
         final int blue = getResources().getColor(R.color.pastel_blue);
         final int green = getResources().getColor(R.color.pastel_green);
-        final int layoutHeight = fc_a.getHeight();
+
         fc_q.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

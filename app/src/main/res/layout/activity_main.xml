@@ -16,11 +16,11 @@
         android:text="Who is the 44th President of the United States?"
         android:textSize="40sp"
         android:fontFamily="sans-serif-condensed"
-        android:background="@drawable/card_background"
-        android:elevation="5dp"
+        android:background="@drawable/card_background_question"
+        android:elevation="10dp"
         android:layout_marginVertical="10dp"
         android:layout_marginHorizontal="5dp"
-        android:backgroundTint="@color/pastel_purple"/>
+        />
     <TextView
         android:id="@+id/flashcard_answer"
         android:layout_width="match_parent"
@@ -29,11 +29,10 @@
         android:text="Barack Obama"
         android:textSize="40sp"
         android:visibility="gone"
-        android:background="@drawable/card_background"
-        android:elevation="5dp"
+        android:background="@drawable/card_background_answer"
+        android:elevation="10dp"
         android:layout_marginVertical="10dp"
-        android:layout_marginHorizontal="10dp"
-        android:backgroundTint="@color/pastel_yellow"/>
+        android:layout_marginHorizontal="10dp"/>
 
     <ImageView
         android:id="@+id/toggle_choices_visibility"
