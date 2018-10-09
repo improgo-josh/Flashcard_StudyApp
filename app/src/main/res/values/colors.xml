@@ -3,5 +3,10 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
-    <color name="my_red_color">#FF0000</color>
+    <color name="gray">#404040</color>
+    <color name="pastel_purple">#b19cd9</color>
+    <color name="pastel_yellow">#fdfd96</color>
+    <color name="pastel_red">#ff6961</color>
+    <color name="pastel_green">#77dd77</color>
+    <color name="pastel_blue">#aec6cf</color>
 </resources>
