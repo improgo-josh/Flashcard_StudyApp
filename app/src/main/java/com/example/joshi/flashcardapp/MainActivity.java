@@ -123,6 +123,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
+        final TextView[] choice = {findViewById(R.id.choice1), findViewById(R.id.choice2), findViewById(R.id.choice3)};
         if (requestCode == 1) {
             String question = data.getExtras().getString("question");
             String answer = data.getExtras().getString("answer");
@@ -130,6 +131,9 @@ public class MainActivity extends AppCompatActivity {
             final TextView fc_a = findViewById(R.id.flashcard_answer);
             fc_q.setText(question);
             fc_a.setText(answer);
+            for (TextView c : choice) {
+                c.setVisibility(View.GONE);
+            }
         }
     }
 }

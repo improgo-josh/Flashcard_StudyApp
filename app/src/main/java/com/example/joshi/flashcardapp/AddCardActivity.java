@@ -14,13 +14,13 @@ public class AddCardActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_new_flashcard);
-        ImageView back = findViewById(R.id.back);
+        final ImageView back = findViewById(R.id.back);
         final ImageView saveIcon = findViewById(R.id.saveFlashcard);
         back.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                finish();
-//                AddCardActivity.this.startActivity(new Intent(AddCardActivity.this, MainActivity.class));
+//                finish();
+                AddCardActivity.this.startActivity(new Intent(AddCardActivity.this, MainActivity.class));
             }
         });
 
