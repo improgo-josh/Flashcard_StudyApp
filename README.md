@@ -34,4 +34,4 @@
 - [ ] Allow the user to add Multiple Choice answers when creating the card
 - [ ] Further customize and style your app
 
-<img src=""/>
+<img src="https://github.com/joshimprogo/Flashcard_StudyApp/blob/master/FlashcardStudyAppGIF_2.gif"/>
