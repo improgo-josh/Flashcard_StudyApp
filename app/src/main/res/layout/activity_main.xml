@@ -10,7 +10,7 @@
 
     <TextView
         android:id="@+id/flashcard_question"
-        android:layout_width="match_parent"
+        android:layout_width="400dp"
         android:layout_height="200dp"
         android:gravity="center"
         android:text="Who is the 44th President of the United States?"
@@ -23,7 +23,7 @@
         />
     <TextView
         android:id="@+id/flashcard_answer"
-        android:layout_width="match_parent"
+        android:layout_width="400dp"
         android:layout_height="200dp"
         android:gravity="center"
         android:text="Barack Obama"
@@ -91,5 +91,17 @@
         android:textColor="@color/gray"
         android:fontFamily="sans-serif-condensed"
         android:layout_marginHorizontal="10dp" />
+
+    <ImageView
+        android:id="@+id/addIcon"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginVertical="10dp"
+        android:layout_marginHorizontal="10dp"
+        android:src="@drawable/plus_icon"
+        android:contentDescription="icon"/>
+
 
 </RelativeLayout>
