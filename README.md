@@ -1,3 +1,22 @@
+# Lab 2 : 
+
+## Required
+- [x] Start by opening Android Studio and running your app to make sure everything still works as expected
+- [x] Add a ‘+’ button that takes the user to new ‘Add Card Screen’
+- [x] Add a Cancel button to the 'Add Card Screen'
+- [x] Add two fields to the 'Add Card Screen' that will allow the user to enter the Question and the Answer
+- [x] Add a Save button that will dismiss 'Add Card Screen' and return to the Main Activity where the user can see the card they just created
+- [x] Push code to GitHub
+
+## Optional
+- [X] Add an ‘Edit’ button on the Main Activity that will let users ‘Edit’ an existing card
+- [X] Show an error message to the user if they didn't enter the question or answer
+- [X] Display a Snackbar notification for when the new card is created successfully
+- [X] Allow the user to add Multiple Choice answers when creating the card
+- [X] Further customize and style your app
+
+<img src="https://github.com/joshimprogo/Flashcard_StudyApp/blob/master/FlashcardStudyAppGIF_2.gif"/>
+
 # Lab 1 : 
 
 ## Required
@@ -16,22 +35,3 @@
 - [x] Add a button that will toggle hiding and showing the answer choices
 
 <img src="https://github.com/joshimprogo/Flashcard_StudyApp/blob/master/FlashcardStudyAppGIF.gif"/>
-
-# Lab 2 : 
-
-## Required
-- [x] Start by opening Android Studio and running your app to make sure everything still works as expected
-- [x] Add a ‘+’ button that takes the user to new ‘Add Card Screen’
-- [x] Add a Cancel button to the 'Add Card Screen'
-- [x] Add two fields to the 'Add Card Screen' that will allow the user to enter the Question and the Answer
-- [x] Add a Save button that will dismiss 'Add Card Screen' and return to the Main Activity where the user can see the card they just created
-- [x] Push code to GitHub
-
-## Optional
-- [ ] Add an ‘Edit’ button on the Main Activity that will let users ‘Edit’ an existing card
-- [ ] Show an error message to the user if they didn't enter the question or answer
-- [ ] Display a Snackbar notification for when the new card is created successfully
-- [ ] Allow the user to add Multiple Choice answers when creating the card
-- [ ] Further customize and style your app
-
-<img src="https://github.com/joshimprogo/Flashcard_StudyApp/blob/master/FlashcardStudyAppGIF_2.gif"/>
