@@ -5,7 +5,7 @@ User is able to study by using a mobile version of flashcards. The user is able 
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/joshimprogo/Flashcard_StudyApp/blob/master/FlashcardStudyAppGIF_3.gif" width=200><br>
 
 
 ## Required
