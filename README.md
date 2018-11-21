@@ -21,7 +21,7 @@ User is able to study by using a mobile version of flashcards. The user is able 
 
 ### App Walk-though
 
-<img src="https://github.com/joshimprogo/Flashcard_StudyApp/blob/master/FlashcardStudyAppGIF_3.gif" width=200><br>
+<img src="https://github.com/joshimprogo/Flashcard_StudyApp/blob/master/FlashcardStudyAppGIF_3.gif" width=200> <img src="https://github.com/joshimprogo/Flashcard_StudyApp/blob/master/FlashcardStudyAppGIF_3(2).gif" width=200> **2nd GIF shows delete function
 
 
 ## Required
