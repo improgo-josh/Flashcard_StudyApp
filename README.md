@@ -1,10 +1,10 @@
 ## Lab 4
 
 ### App Description
-`TODO://` Add app description
+User is able to study by using a mobile version of flashcards. The user is able to create questions and put answers on a flashcard and test their memory with multiple choice questions.
 
 ### App Walk-though
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/joshimprogo/Flashcard_StudyApp" width=200><br>
 
 ## Required
 - [x] User sees a transition animation when going from the main screen to the add card screen.
@@ -18,9 +18,6 @@
 - [ ] User sees a celebration animation with confetti when they answer a question correctly
 
 ## Lab 3
-
-### App Description
-User is able to study by using a mobile version of flashcards. The user is able to create questions and put answers on a flashcard and test their memory with multiple choice questions.
 
 ### App Walk-though
 
