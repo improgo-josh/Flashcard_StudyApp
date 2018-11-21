@@ -4,7 +4,7 @@
 User is able to study by using a mobile version of flashcards. The user is able to create questions and put answers on a flashcard and test their memory with multiple choice questions.
 
 ### App Walk-though
-<img src="https://github.com/joshimprogo/Flashcard_StudyApp" width=200><br>
+<img src="https://github.com/joshimprogo/Flashcard_StudyApp/blob/master/FlashcardStudyAppGIF_4.gif" width=200><br>
 
 ## Required
 - [x] User sees a transition animation when going from the main screen to the add card screen.
